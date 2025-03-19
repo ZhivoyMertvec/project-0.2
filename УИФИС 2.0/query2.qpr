@@ -1,0 +1,4 @@
+SELECT Table.name_o, Table.date_o, Table.tipe_o;
+ FROM data1!table;
+ WHERE  Table.tipe_o = 'computer';
+ ORDER BY Table.name_o

@@ -1,0 +1,5 @@
+
+SELECT Table2.id_o, Table2.prich_s, Table2.date_s;
+ FROM ;
+     DATA1!TABLE2;
+ ORDER BY Table2.date_s
